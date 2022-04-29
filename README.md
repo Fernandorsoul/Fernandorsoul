@@ -1,9 +1,18 @@
+![dev is here](https://github.com/Fernandorsoul/Fernandorsoul/blob/main/giphy%20(1).gif)
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Fernandorsoul
 - 👀 I’m interested in all things ...
 - 🌱 I’m currently learning: javascript, c#, .net,php, html5, css, 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
 [linkedin](https://www.linkedin.com/in/fernandorsoul/)
+or
 [instagram](https://www.instagram.com/fernandorsoul/)
 
 <!---
