@@ -3,6 +3,10 @@
     <a href="https://github.com/fernandorsoul" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/Fernandorsoul" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     </p>
+    <div>
+    <img alt="Fernandorsoul's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=fernandorsoul&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    
+</div>
 
 <p>&nbsp;</p>
 
@@ -49,7 +53,4 @@
 
 <p>&nbsp;</p>
 
-<div>
-    <img alt="Fernandorsoul's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=fernandorsoul&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-    
-</div>
+
