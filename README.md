@@ -8,7 +8,7 @@
 
 <h1 align="center"><strong>👾 Developer Fullstack</strong></h1>
 <p align="center">🎩 C# .Net  ☄ Java 17, Spring & Maven  🌠 React.js 18 💻 TypeScript 🦄 Node.js ☃ Express.js 🔥 Tailwind  ❤ Open Source & Clean Code</p>
-
+<p>&nbsp;</p>
 <p align="center">🔥 Backend (70%) | Frontend Adventurer (30%) 🔥</p>
 <p align="center">💡 DRY Code Enthusiast | Clean & Maintainable Code Lover 💻</p>
 <p align="center">💚 Open Source Lover</p>
