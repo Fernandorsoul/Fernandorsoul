@@ -5,7 +5,7 @@
     </p>
     <div>
     <img alt="Fernandorsoul's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=fernandorsoul&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-    
+          <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandorsoul&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
 <p>&nbsp;</p>
