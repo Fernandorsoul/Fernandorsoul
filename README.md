@@ -6,7 +6,7 @@
 
 <p>&nbsp;</p>
 
-<h2 align="center"><strong>👾 Developer Fullstack</strong></h2>
+<h1 align="center"><strong>👾 Developer Fullstack</strong></h1>
 <p align="center">🎩 C# .Net  ☄ Java 17, Spring & Maven  🌠 React.js 18 💻 TypeScript 🦄 Node.js ☃ Express.js 🔥 Tailwind  ❤ Open Source & Clean Code</p>
 
 <p align="center">🔥 Backend (70%) | Frontend Adventurer (30%) 🔥</p>
