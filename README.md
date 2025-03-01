@@ -8,7 +8,7 @@
 ---
 <img height="180em" width="290em" src="https://github-readme-stats.vercel.app/api?username=fernandorsoul&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
   <img height="180em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorsoul&layout=compact&langs_count=16&theme=blue-green"/>
-# ![snake gif](https://github.com/Fernandorsoul/Fernandorsoul/)/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/Fernandorsoul/Fernandorsoul/blob/output/github-contribution-grid-snake.gif)
 
 ## 🚀 About Me  
 
