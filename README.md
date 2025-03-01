@@ -5,8 +5,9 @@
 💻 Passionate about **clean code**, **scalability**, and **open-source** projects.  
 🔥 Backend Enthusiast (70%) | Frontend Adventurer (30%)  
 
----
-<img height="180em" width="290em" src="https://github-readme-stats.vercel.app/api?username=fernandorsoul&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+-
+  <img height="180em" width="290em" src="https://github-readme-stats.vercel.app/api?username=fernandorsoul&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+  
   <img height="180em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorsoul&layout=compact&langs_count=16&theme=blue-green"/>
 ---
 ## 🚀 About Me  
