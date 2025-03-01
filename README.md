@@ -6,6 +6,12 @@
 🔥 Backend Enthusiast (70%) | Frontend Adventurer (30%)  
 
 ---
+<img height="180em" width="290em" src="https://github-readme-stats.vercel.app/api?username=fernandorsoul&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+  <img height="180em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorsoul&layout=compact&langs_count=16&theme=blue-green"/>
+
+  <img height="130em" width="150em" src="http://1.bp.blogspot.com/-sJGD8ShYQ4o/UQZ_-hhse1I/AAAAAAAAeoQ/VrS8RkGH5gk/s1600/22.gif"/>
+
+# ![snake gif](https://github.com/fernandorsoul/fernandorsoul/blob/output/github-contribution-grid-snake.gif)
 
 ## 🚀 About Me  
 
