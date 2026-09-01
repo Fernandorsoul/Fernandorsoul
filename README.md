@@ -61,11 +61,15 @@ A rural-management platform designed to support property and crop operations wit
 
 `C#/.NET` `REST APIs` `PostgreSQL` `JWT` `DDD` `Clean Architecture` `React` `TypeScript`
 
-### 🥋 BJJ Gym Management
+## Selected private work
 
-A production application created to support day-to-day gym operations, including student records, safe data imports with duplicate-CPF validation, and scheduled email notifications.
+Some of my most meaningful experience lives in private repositories. These summaries intentionally focus on my contribution areas and the value delivered; clients, business rules, data, architecture, and implementation details remain confidential.
 
-`C#/.NET` `Angular` `Python` `PostgreSQL` `REST APIs`
+- **AECS** — Contributing to a private C#/.NET system, with emphasis on maintainable domain code, reliable data flows, and the safe evolution of business features.
+- **RsoulFactory** — Developing a private product-engineering initiative centered on turning operational ideas into reusable, well-structured digital solutions.
+- **BJJ gym operations** — Built and evolved a production application supporting day-to-day management, with attention to data integrity, automation, and dependable workflows.
+
+> Additional context can be shared in an interview or professional conversation when confidentiality allows.
 
 <details>
 <summary><strong>More about my professional experience</strong></summary>
